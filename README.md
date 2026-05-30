@@ -165,8 +165,6 @@ Ethio-ai-Job-Matcher/
 ├── .gitignore             # Git ignore rules
 ├── LICENSE                # MIT License
 ├── README.md              # This file
-├── QUICKSTART.md          # Quick setup guide
-├── DEPLOYMENT.md          # Cloud deployment guide
 │
 └── data/
     ├── resumes.csv        # Sample resume dataset (20 resumes)
@@ -238,14 +236,13 @@ You can replace the sample data with your own CSVs following the same column for
 
 ## 🌐 Deployment
 
-See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed guides on deploying to:
+You can deploy this app for free on [Streamlit Cloud](https://share.streamlit.io):
 
-- **Streamlit Cloud** (free)
-- **Render**
-- **Heroku**
-- **Hugging Face Spaces**
-- **AWS EC2**
-- **Docker**
+1. Fork or push this repo to your GitHub
+2. Go to [share.streamlit.io](https://share.streamlit.io) and sign in with GitHub
+3. Click **"New app"** → select this repo → set main file to `app.py` → **Deploy**
+
+Your app will be live at `https://your-app-name.streamlit.app`
 
 ---
 
