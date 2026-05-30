@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.log
+.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Data (if you want to exclude large datasets)
+# data/*.csv
+
+# Model files
+*.pkl
+*.h5
+*.model
