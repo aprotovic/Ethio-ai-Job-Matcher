@@ -87,7 +87,7 @@ pip install --upgrade -r requirements.txt
    git init
    git add .
    git commit -m "Initial deployment"
-   git remote add origin https://github.com/YOUR_USERNAME/ai-job-matcher.git
+   git remote add origin https://github.com/aprotovic/Ethio-ai-Job-Matcher.git
    git push -u origin main
    ```
 
@@ -95,7 +95,7 @@ pip install --upgrade -r requirements.txt
    - Go to [share.streamlit.io](https://share.streamlit.io)
    - Sign in with GitHub
    - Click "New app"
-   - Select repository: `YOUR_USERNAME/ai-job-matcher`
+   - Select repository: `aprotovic/Ethio-ai-Job-Matcher`
    - Set main file path: `app.py`
    - Click "Deploy"
 
@@ -276,8 +276,8 @@ heroku restart
    - Upload all project files via web interface
    - Or use git:
    ```bash
-   git clone https://huggingface.co/spaces/YOUR_USERNAME/ai-job-matcher-ethiopia
-   cd ai-job-matcher-ethiopia
+   git clone https://huggingface.co/spaces/aprotovic/Ethio-ai-Job-Matcher
+   cd Ethio-ai-Job-Matcher
    # Copy your files here
    git add .
    git commit -m "Initial deployment"
@@ -285,7 +285,7 @@ heroku restart
    ```
 
 4. **Access Your App**
-   - URL: `https://huggingface.co/spaces/YOUR_USERNAME/ai-job-matcher-ethiopia`
+   - URL: `https://huggingface.co/spaces/aprotovic/Ethio-ai-Job-Matcher`
 
 ### Hugging Face Features
 - ✅ Free hosting
@@ -335,8 +335,8 @@ heroku restart
 4. **Deploy Application**
    ```bash
    # Clone or upload project
-   git clone https://github.com/YOUR_USERNAME/ai-job-matcher.git
-   cd ai-job-matcher
+   git clone https://github.com/aprotovic/Ethio-ai-Job-Matcher.git
+   cd Ethio-ai-Job-Matcher
 
    # Create virtual environment
    python3 -m venv venv
@@ -489,10 +489,10 @@ docker-compose down
 
 ```bash
 # Tag image
-docker tag ai-job-matcher YOUR_USERNAME/ai-job-matcher:latest
+docker tag ai-job-matcher aprotovic/ai-job-matcher:latest
 
 # Push to Docker Hub
-docker push YOUR_USERNAME/ai-job-matcher:latest
+docker push aprotovic/ai-job-matcher:latest
 ```
 
 ---
@@ -711,9 +711,7 @@ components.html(ga_code)
 ## 📞 Support
 
 For deployment issues:
-- **Email**: devops@aijobmatcher.et
-- **Documentation**: docs.aijobmatcher.et
-- **GitHub Issues**: github.com/ai-job-matcher/issues
+- **GitHub Issues**: [github.com/aprotovic/Ethio-ai-Job-Matcher/issues](https://github.com/aprotovic/Ethio-ai-Job-Matcher/issues)
 
 ---
 

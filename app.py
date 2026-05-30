@@ -291,8 +291,7 @@ def main():
         - Ethiopian Job Market Focus
         
         **Contact:**
-        - 📧 info@aijobmatcher.et
-        - 🌐 www.aijobmatcher.et
+        - 🐙 [GitHub](https://github.com/aprotovic/Ethio-ai-Job-Matcher)
         """)
     
     # HOME PAGE
@@ -854,9 +853,7 @@ def main():
         ## 📧 Contact & Support
         
         For inquiries, partnerships, or support:
-        - **Email**: info@aijobmatcher.et
-        - **Website**: www.aijobmatcher.et
-        - **GitHub**: github.com/aprotovic/Ethio-ai-Job-Matcher
+        - **GitHub**: [github.com/aprotovic/Ethio-ai-Job-Matcher](https://github.com/aprotovic/Ethio-ai-Job-Matcher)
         
         ---
         
