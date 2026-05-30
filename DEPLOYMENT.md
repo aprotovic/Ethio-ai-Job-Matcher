@@ -27,10 +27,10 @@ Complete guide for deploying the AI Job Matcher System locally and on cloud plat
 
 ### Step-by-Step
 
-1. **Extract Project**
+1. **Clone the repository**
    ```bash
-   unzip ai-job-matcher-ethiopia.zip
-   cd ai-job-matcher-ethiopia
+   git clone https://github.com/aprotovic/Ethio-ai-Job-Matcher.git
+   cd Ethio-ai-Job-Matcher
    ```
 
 2. **Create Virtual Environment**
@@ -717,4 +717,4 @@ For deployment issues:
 
 ---
 
-**🎉 Congratulations! Your AI Job Matcher is now deployed!**
+**Happy deploying! 🚀**
