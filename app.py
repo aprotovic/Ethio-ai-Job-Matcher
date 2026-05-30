@@ -856,7 +856,7 @@ def main():
         For inquiries, partnerships, or support:
         - **Email**: info@aijobmatcher.et
         - **Website**: www.aijobmatcher.et
-        - **GitHub**: github.com/ai-job-matcher
+        - **GitHub**: github.com/aprotovic/Ethio-ai-Job-Matcher
         
         ---
         
@@ -1001,7 +1001,7 @@ def main():
                                 Cache (Redis)
         ```
         
-        ## 💡 Interview Questions & Answers
+        ## 💡 Frequently Asked Questions
         
         **Q: Why use Cosine Similarity instead of Euclidean Distance?**  
         A: Cosine similarity measures angle, not magnitude. It works better for text because it doesn't care about document length, only content similarity.
