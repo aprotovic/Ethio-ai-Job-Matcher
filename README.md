@@ -9,29 +9,13 @@ An intelligent, AI-powered career recommendation engine and resume parser built 
 
 ---
 
-## 📸 Screenshots & Interface Preview
-
-<div align="center">
-  <img src="docs/screenshots/job_matcher_dashboard.png" alt="Job Matcher Dashboard" width="90%" />
-  <p><i>Figure 1: Real-time candidate resume matching and match score ranking (0–100%).</i></p>
-</div>
-
-<div align="center">
-  <img src="docs/screenshots/skill_gap_analysis.png" alt="Skill Gap Analytics" width="90%" />
-  <p><i>Figure 2: Interactive skill gap visualization and ATS resume optimization insights.</i></p>
-</div>
-
-> **Tip:** Place your UI screenshots in `docs/screenshots/job_matcher_dashboard.png` and `docs/screenshots/skill_gap_analysis.png`.
-
----
-
 ## ✨ Key Features
 
 - **Document Parsing:** Ingests PDF, DOCX, and raw text resumes using OCR and text extractors.
 - **NLP Matching Engine:** Preprocesses text with NLTK and calculates Cosine Similarity across TF-IDF vector embeddings.
 - **Ethiopian Enterprise Dataset:** Pre-configured with actual vacancy postings from Ethio Telecom, Ethiopian Airlines, Dashen Bank, Commercial Bank of Ethiopia (CBE), etc.
 - **ATS Resume Optimizer:** Pinpoints missing keywords and provides concrete recommendations to increase interview callback rates.
-- **Interactive Visualizations:** Match distributions and skill frequency charts powered by Plotly.
+- **Interactive Visualizations:** Match distributions and skill frequency analytics powered by Plotly.
 
 ---
 
